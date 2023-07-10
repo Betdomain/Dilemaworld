@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Scena2.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/mainScene.unity
+    guid: 223c7cb1c6b377543b5937005dc8da1e
+  - enabled: 1
+    path: Assets/Scenes/chooseScene.unity
+    guid: c78012ad3230b5a49a0a7321a6e85045
+  - enabled: 1
+    path: Assets/Scenes/Dilema1Scene.unity
+    guid: 039b4713d7e403f45bbcbd557b71d911
+  - enabled: 1
+    path: Assets/Scenes/Dilema2Scene.unity
+    guid: 3dfeee804bfc6864ca8aaf4c06ec1671
+  - enabled: 1
+    path: Assets/Scenes/Dilema3Scene.unity
+    guid: eb6316c6b5d33104c943c02cfc8a34f6
+  - enabled: 1
+    path: Assets/Scenes/Dilema4Scene.unity
+    guid: 23812d404bd67bf4687f44d32e7bcecb
+  - enabled: 1
+    path: Assets/Scenes/Dilema5Scene.unity
+    guid: e31c8f2bbd381f049b68a1d85006c405
+  - enabled: 1
+    path: Assets/Scenes/DilemaHeaven.unity
+    guid: 73b5714c93bc4744690d029620282c97
+  - enabled: 1
+    path: Assets/Scenes/DilemaHell.unity
+    guid: 9361c984403a0f84bb1bc5e85a0e1757
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: 95ea8935e6ecba748b05b4269e475498
+  m_configObjects: {}
